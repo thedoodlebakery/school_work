@@ -1,0 +1,44 @@
+ /* Paula B */
+
+body{
+	background-color: #6699ff;
+	color: #D5E3FF;
+	font-family: 'Verdana', 'Arial', sans-serif;
+}
+
+
+h1{
+	text-align: center;
+}
+
+img{
+	border:0 none;
+}
+
+.nav{
+	font-weight: bold;
+}
+
+.category{
+	background-color: #6699FF;
+	color: #003366;
+	font-weight: bold;
+	font-size: 1.1em;
+	text-shadow: 1px 1px 1px #666;
+}
+
+#wrapper{
+	width:700px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#main{
+	text-align:center;
+}
+
+#footer{
+	font-size:0.7em;
+	font-style: italic;
+}
+
