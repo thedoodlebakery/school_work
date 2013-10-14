@@ -1,0 +1,80 @@
+ /* Paula Baker */
+
+body{
+	background-color: #6699ff;
+	background-image: url("images/gradientblue.jpg");
+	color: #D5E3FF;
+	font-family: 'Verdana', 'Arial', sans-serif;
+}
+
+
+img{
+	border:0 none;
+}
+
+#header{
+	text-align:center;
+	background-color: #000066;
+	padding: 10px;
+
+}
+
+.nav{
+	font-weight: bold;
+}
+
+#leftcolumn{
+	float:left;
+	width: 150px;
+
+}
+
+#leftcolumn a{
+	text-decoration: none;
+	color: #3262A3;
+}
+
+#leftcolumn a:visited{
+	color: #6699FF;
+}
+
+#leftcolumn a:hover{
+	color: #CCCCCC;
+}
+
+#rightcolumn{
+	margin-left: 180px;
+	padding-right: 10px;
+	padding-bottom:  20px;
+}
+
+
+.navigation{
+	list-style-type: none;
+	
+}
+
+
+.category{
+	color: #003366;
+	font-weight: bold;
+	font-size: 1.1em;
+	text-shadow: 1px 1px 1px #666;
+}
+
+#wrapper{
+	width:80%;
+	min-width:700px;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: #ffffff;
+	color: #000066;
+
+}
+
+
+#footer{
+	font-size:0.7em;
+	font-style: italic;
+}
+
